@@ -28,7 +28,7 @@ Requires an Apple Silicon Mac (M1 or later), macOS 14 Sonoma or later, and Apple
    open "$HOME/Applications/bist.app"
    ```
 
-Look for the small orange control near the top-right corner of your screen. Click it to open the panel. bist runs without a Dock icon.
+Look for the small orange control near the top-right corner of your screen. Click it to open the panel. bist runs without a Dock icon. While it's running, opening bist again from Spotlight, Finder or Launchpad also opens the panel.
 
 The build signs the app locally. If macOS blocks opening it, use System Settings → Privacy & Security → Open Anyway after attempting to open it.
 
